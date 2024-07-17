@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarthak Rana
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DSA and Mern Stack
+- 🌱 I’m currently learning Next.js.
 - 💞️ I’m looking to collaborate on any project related to the above mentioned techstack
 - 📫 Linkdin Profile https://www.linkedin.com/in/saarthakrana
 
